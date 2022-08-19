@@ -19,5 +19,5 @@ Estou em busca da primeira oportunidade para atuar como desenvolvedor front-end
 
 ## Contatos
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-rodrigues-telecom/)
+<a href="https://www.linkedin.com/in/gabriel-rodrigues-telecom/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href = "mailto:gabriel.carlos.profissional@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
