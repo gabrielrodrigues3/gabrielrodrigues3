@@ -4,9 +4,7 @@ Hello World! Eu sou Gabriel Rodrigues
 
 ## Sobre mim
 
-Trabalho há 21 anos com tecnologia (Telecomunicações) e agora estou migrando de vez para programação.
-Sou muito dedicado, esforçado, focado e determinado.
-Estou em busca da primeira oportunidade para atuar como desenvolvedor front-end
+Profissional com 21 anos de experiência na área de tecnologia (Telecomunicações) e em busca de oportunidades para migrar de carreira para desenvolvedor web.
 
 ## Tecnologias e Ferramentas:
 
