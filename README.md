@@ -1,4 +1,4 @@
-# Bem vindo (a) ao meu perfil
+# Bem vindo ao meu perfil
 
 Hello World! Eu sou Gabriel Rodrigues
 
