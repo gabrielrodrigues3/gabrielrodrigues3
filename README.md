@@ -17,7 +17,7 @@ Profissional com 21 anos de experiência na área de tecnologia (Telecomunicaç�
 
 ## Contatos
 
-<a href="https://www.linkedin.com/in/gabriel-rodrigues-telecom/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gabrielrodrigues3/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href = "mailto:gabriel.carlos.profissional@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div align="center">
