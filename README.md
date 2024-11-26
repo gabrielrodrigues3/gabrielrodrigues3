@@ -4,7 +4,7 @@ Hello World! Eu sou Gabriel Rodrigues
 
 ## Sobre mim
 
-Profissional com 23 anos de experiência na área de tecnologia (Telecomunicações) e em busca de oportunidades para migrar de carreira para desenvolvedor web.
+Profissional com 23 anos de experiência na área de tecnologia (Telecomunicações) e em migração de carreira para desenvolvedor.
 
 ## Tecnologias e Ferramentas:
 
