@@ -4,7 +4,7 @@ Hello World! Eu sou Gabriel Rodrigues
 
 ## Sobre mim
 
-Profissional com 23 anos de experiência na área de tecnologia (Telecomunicações) e em migração de carreira para desenvolvedor.
+Full-Stack Developer | Project Manager
 
 ## Tecnologias e Ferramentas:
 
